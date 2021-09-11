@@ -1,6 +1,6 @@
 settings = {
     # Length of password
-    "length": 128,
+    "length": 16,
     # What to use in password
     "use_lowercase": True,
     "use_uppercase": True,
@@ -10,5 +10,5 @@ settings = {
     "use_doubles": True,
     # Use custom symbols (Good for leaving out awkward to type characters)
     "use_custom_symbols": False,
-    "custom_symbols": " !\"#$%&\'()*,-./:;<=>?@_",
+    "custom_symbols": "!\"#$%&\'()*,-./:;<=>?@_",
 }

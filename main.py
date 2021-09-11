@@ -34,6 +34,6 @@ else:
 password = "".join(password_array)
 
 # Print password
-print(f"\nGenerated Password:\n{password}\n")
+print(f"\nGenerated Password:\n\033[92m{password}\033[0m\n")
 
 # TODO Main function
