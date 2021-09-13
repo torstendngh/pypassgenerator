@@ -6,6 +6,8 @@ settings = {
     "use_uppercase": True,
     "use_numbers": True,
     "use_symbols": True,
+    "use_advanced_symbols": True,
+    "use_emojis": False,
     # Should doubles be used / Should characters appear more than once
     "use_doubles": True,
     # Use custom symbols (Good for leaving out awkward to type characters)
